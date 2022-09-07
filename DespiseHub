@@ -12,7 +12,7 @@ end)
 
 MainSection:NewLabel("Discord")
 
-MainSection:NewButton("MediumGames#2984", "", function()
+MainSection:NewButton("RJ3765#7411", "", function()
     print("Clicked")
 end)
 
